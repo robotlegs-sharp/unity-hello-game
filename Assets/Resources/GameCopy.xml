@@ -1,0 +1,52 @@
+﻿<xml>
+	<language name="German">
+		<copy key="Game Title">Schlange</copy>
+		<copy key="Game Description">Ein Beispiel Spiel-Projekt</copy>
+		<copy key="Play">Spelen</copy>
+		<copy key="Game Over">Spiel Ist Aus</copy>
+		<copy key="High Score">Highscore</copy>
+		<copy key="Score">Ergebnis</copy>
+		<copy key="Menu">Menü</copy>
+		<copy key="Play Again">Spiel Nochmal</copy>
+	</language>
+	<language name="English">
+		<copy key="Game Title">Snake</copy>
+		<copy key="Game Description">An example game project</copy>
+		<copy key="Play">Play</copy>
+		<copy key="Game Over">Game Over</copy>
+		<copy key="High Score">High Score</copy>
+		<copy key="Score">Score</copy>
+		<copy key="Menu">Menu</copy>
+		<copy key="Play Again">Play Again</copy>
+	</language>
+	<language name="Spanish">
+		<copy key="Game Title">Serpiente</copy>
+		<copy key="Game Description">Un ejemplo de proyecto de juego</copy>
+		<copy key="Play">Jugar</copy>
+		<copy key="Game Over">Juego Terminado</copy>
+		<copy key="High Score">Puntuación Más Alta</copy>
+		<copy key="Score">Puntuación</copy>
+		<copy key="Menu">Menú</copy>
+		<copy key="Play Again">Juega de nuevo</copy>
+	</language>
+	<language name="French">
+		<copy key="Game Title">Serpent</copy>
+		<copy key="Game Description">Un exemple de projet de jeu</copy>
+		<copy key="Play">Jouer</copy>
+		<copy key="Game Over">Jeu Terminé</copy>
+		<copy key="High Score">Score Elevé</copy>
+		<copy key="Score">But</copy>
+		<copy key="Menu">Menu</copy>
+		<copy key="Play Again">Rejouer</copy>
+	</language>
+	<language name="Italian">
+		<copy key="Game Title">Serpente</copy>
+		<copy key="Game Description">Un esempio di progetto di gioco</copy>
+		<copy key="Play">Giocare</copy>
+		<copy key="Game Over">Gioco Finito</copy>
+		<copy key="High Score">Punteggio Alto</copy>
+		<copy key="Score">Punto</copy>
+		<copy key="Menu">Menu</copy>
+		<copy key="Play Again">Giocare Di Nuovo</copy>
+	</language>
+</xml>
