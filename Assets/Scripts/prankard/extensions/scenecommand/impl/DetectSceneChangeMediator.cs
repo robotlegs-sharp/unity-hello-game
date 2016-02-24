@@ -1,4 +1,4 @@
-using robotlegs.bender.bundles.mvcs;
+using Robotlegs.Bender.Bundles.MVCS;
 using prankard.extensions.scenecommand.api;
 
 namespace prankard.extensions.scenecommand.impl

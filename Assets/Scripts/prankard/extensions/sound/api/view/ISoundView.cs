@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 using System;
-using robotlegs.bender.extensions.mediatorMap.api;
+using Robotlegs.Bender.Extensions.Mediation.API;
 
-using robotlegs.bender.platforms.unity.extensions.mediatorMap.impl;
+using Robotlegs.Bender.Platforms.Unity.Extensions.Mediation.Impl;
 
 
 namespace prankard.extensions.sound.api.view

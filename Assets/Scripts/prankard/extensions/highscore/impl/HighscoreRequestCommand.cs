@@ -1,6 +1,6 @@
-using robotlegs.bender.extensions.commandCenter.api;
+using Robotlegs.Bender.Extensions.CommandCenter.API;
 using prankard.extensions.highscore.api;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 
 namespace prankard.extensions.highscore.impl
 {

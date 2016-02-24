@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 using System;
 using UnityEngine;
-using robotlegs.bender.extensions.commandCenter.api;
+using Robotlegs.Bender.Extensions.CommandCenter.API;
 using prankard.extensions.sound.api.events;
 using prankard.extensions.sound.api.model;
 using prankard.extensions.sound.impl.constant;

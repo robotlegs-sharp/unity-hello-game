@@ -1,9 +1,9 @@
-using robotlegs.bender.framework.api;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 using prankard.extensions.scenecommand.api;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using robotlegs.bender.extensions.mediatorMap.api;
+using Robotlegs.Bender.Extensions.Mediation.API;
 using prankard.extensions.scenecommand.impl;
 
 namespace prankard.extensions.scenecommand

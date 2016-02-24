@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
-using robotlegs.bender.extensions.mediatorMap.api;
-using robotlegs.bender.framework.api;
+using Robotlegs.Bender.Extensions.Mediation.API;
+using Robotlegs.Bender.Framework.API;
 using prankard.extensions.sound.api.events;
 using prankard.extensions.sound.api.model;
 using prankard.extensions.sound.api.view;
@@ -9,7 +9,7 @@ using prankard.extensions.sound.impl.command;
 using prankard.extensions.sound.impl.constant;
 using prankard.extensions.sound.impl.model;
 using prankard.extensions.sound.impl.view.mediator;
-using robotlegs.bender.extensions.eventCommandMap.api;
+using Robotlegs.Bender.Extensions.EventCommand.API;
 
 namespace prankard.extensions.sound
 {

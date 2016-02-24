@@ -1,4 +1,4 @@
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 using prankard.extensions.highscore.api;
 using UnityEngine;
 

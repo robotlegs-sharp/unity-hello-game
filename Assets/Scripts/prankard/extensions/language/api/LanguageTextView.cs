@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-using robotlegs.bender.platforms.unity.extensions.mediatorMap.impl;
+using Robotlegs.Bender.Platforms.Unity.Extensions.Mediation.Impl;
 
 namespace prankard.extensions.language.api
 {

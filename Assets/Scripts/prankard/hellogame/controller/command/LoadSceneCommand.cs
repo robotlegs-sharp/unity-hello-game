@@ -1,9 +1,9 @@
-using robotlegs.bender.extensions.commandCenter.api;
+using Robotlegs.Bender.Extensions.CommandCenter.API;
 using prankard.extensions.scenecommand.api;
 using prankard.extensions.score.api;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 using prankard.extensions.sound.api.events;
-using robotlegs.bender.framework.api;
+using Robotlegs.Bender.Framework.API;
 
 namespace prankard.hellogame.controller.command
 {

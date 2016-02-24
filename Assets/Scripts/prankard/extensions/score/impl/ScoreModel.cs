@@ -1,5 +1,5 @@
 using prankard.extensions.score.api;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 
 namespace prankard.extensions.score.impl
 {

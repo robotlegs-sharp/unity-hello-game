@@ -1,4 +1,4 @@
-using robotlegs.bender.framework.api;
+using Robotlegs.Bender.Framework.API;
 using prankard.extensions.highscore.api;
 using prankard.extensions.highscore.impl;
 

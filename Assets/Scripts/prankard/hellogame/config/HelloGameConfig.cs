@@ -1,5 +1,5 @@
-using robotlegs.bender.framework.api;
-using robotlegs.bender.extensions.eventCommandMap.api;
+using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Extensions.EventCommand.API;
 using prankard.extensions.scenecommand.api;
 using prankard.hellogame.controller.command;
 

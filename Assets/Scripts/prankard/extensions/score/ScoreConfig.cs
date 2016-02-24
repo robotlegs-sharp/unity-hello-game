@@ -1,6 +1,6 @@
-﻿using robotlegs.bender.framework.api;
-using robotlegs.bender.extensions.mediatorMap.api;
-using robotlegs.bender.extensions.eventCommandMap.api;
+﻿using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Extensions.Mediation.API;
+using Robotlegs.Bender.Extensions.EventCommand.API;
 using prankard.extensions.score.api;
 using prankard.extensions.score.impl;
 

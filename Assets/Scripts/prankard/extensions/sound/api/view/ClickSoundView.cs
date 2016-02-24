@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-using robotlegs.bender.platforms.unity.extensions.mediatorMap.impl;
+using Robotlegs.Bender.Platforms.Unity.Extensions.Mediation.Impl;
 using UnityEngine.UI;
 using prankard.extensions.sound.api.events;
 

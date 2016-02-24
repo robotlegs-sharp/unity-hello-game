@@ -1,6 +1,6 @@
 using prankard.extensions.language.api;
 using System.Collections.Generic;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 
 namespace prankard.extensions.language.impl
 {

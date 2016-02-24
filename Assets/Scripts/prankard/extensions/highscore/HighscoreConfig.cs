@@ -1,13 +1,13 @@
-using robotlegs.bender.framework.api;
-using robotlegs.bender.extensions.eventCommandMap.api;
-using robotlegs.bender.extensions.mediatorMap.api;
+using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Extensions.EventCommand.API;
+using Robotlegs.Bender.Extensions.Mediation.API;
 using prankard.extensions.score.api;
 using prankard.extensions.highscore.impl;
 using prankard.extensions.highscore.api;
 
 namespace prankard.extensions.highscore
 {
-	public class HighscoreConfig : IConfig 
+	public class HighscoreConfig : IConfig
 	{
 		[Inject] public IEventCommandMap commandMap;
 		[Inject] public IMediatorMap mediatorMap;

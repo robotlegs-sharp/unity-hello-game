@@ -1,4 +1,4 @@
-using robotlegs.bender.extensions.eventDispatcher.impl;
+using Robotlegs.Bender.Extensions.EventManagement.Impl;
 using UnityEngine.SceneManagement;
 
 namespace prankard.extensions.scenecommand.api

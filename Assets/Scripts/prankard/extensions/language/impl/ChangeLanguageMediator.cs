@@ -1,4 +1,4 @@
-using robotlegs.bender.bundles.mvcs;
+using Robotlegs.Bender.Bundles.MVCS;
 using prankard.extensions.language.api;
 
 namespace prankard.extensions.language.impl

@@ -1,5 +1,5 @@
-using robotlegs.bender.extensions.commandCenter.api;
-using robotlegs.bender.extensions.eventDispatcher.api;
+using Robotlegs.Bender.Extensions.CommandCenter.API;
+using Robotlegs.Bender.Extensions.EventManagement.API;
 using prankard.extensions.language.api;
 
 namespace prankard.extensions.language.impl

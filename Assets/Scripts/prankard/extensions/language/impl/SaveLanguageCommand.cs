@@ -1,4 +1,4 @@
-using robotlegs.bender.extensions.commandCenter.api;
+using Robotlegs.Bender.Extensions.CommandCenter.API;
 using prankard.extensions.language.api;
 
 namespace prankard.extensions.language.impl

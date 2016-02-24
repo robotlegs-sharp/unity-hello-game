@@ -1,7 +1,7 @@
-using robotlegs.bender.bundles;
-using robotlegs.bender.framework.api;
-using robotlegs.bender.framework.impl;
-using robotlegs.bender.platforms.unity.extensions.contextview.impl;
+using Robotlegs.Bender.Bundles;
+using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Framework.Impl;
+using Robotlegs.Bender.Platforms.Unity.Extensions.ContextViews.Impl;
 using UnityEngine;
 using prankard.extensions.scenecommand;
 using prankard.extensions.language;
@@ -9,6 +9,7 @@ using prankard.extensions.score;
 using prankard.extensions.highscore;
 using prankard.extensions.sound.api.vo;
 using prankard.extensions.sound;
+using Robotlegs.Bender.Platforms.Unity.Bundles;
 
 namespace robotlegs.hellogame
 {

@@ -1,8 +1,8 @@
-using robotlegs.bender.framework.api;
-using robotlegs.bender.extensions.mediatorMap.api;
+using Robotlegs.Bender.Framework.API;
+using Robotlegs.Bender.Extensions.Mediation.API;
 using prankard.extensions.language.api;
 using prankard.extensions.language.impl;
-using robotlegs.bender.extensions.eventCommandMap.api;
+using Robotlegs.Bender.Extensions.EventCommand.API;
 using UnityEngine;
 using System;
 

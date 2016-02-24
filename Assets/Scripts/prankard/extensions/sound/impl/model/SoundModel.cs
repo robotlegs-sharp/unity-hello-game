@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using prankard.extensions.sound.api.vo;
 using prankard.extensions.sound.api.model;
 using System.ComponentModel;
-using robotlegs.bender.framework.api;
+using Robotlegs.Bender.Framework.API;
 
 
 namespace prankard.extensions.sound.impl.model
